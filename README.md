@@ -2,25 +2,25 @@
 Submission for Team Abhiyaan
 ============================
 
-##Name:
+## Name:
 A Samuel Moses
 
-##Roll Number:
+## Roll Number:
 CS19B003
 
-##Previous Experience:
+## Previous Experience:
 -------------------
 not much apart from small 
 
-##Current PORs:
+## Current PORs:
 -------------
 None
 
-##Why I want to join
+## Why I want to join
 ------------------------------
 To get to work on useful products so that stuff I learn actually gets used
 
-##Relevant Courses:
+## Relevant Courses:
 ----------------
 In Institute
 ------------
@@ -30,6 +30,6 @@ CS1200
 Passed
 Doing
 
-##Online
+## Online
 ------
 Doing Andrew NG Machine Learning 
