@@ -31,6 +31,7 @@ Doing Andrew NG Machine Learning
 ### References
 - publisher and subscriber : ROS Tutorial
 - turtle exercise : http://wiki.ros.org/turtlesim/Tutorials/Go%20to%20Goal
+- lane segmentation : CVI club assignment
 
 # Approach to problem
 ### B.3  1.Lane segmentation
