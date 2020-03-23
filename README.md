@@ -42,8 +42,8 @@ Doing Andrew NG Machine Learning
 
 ### B.2 Bot controller
 - we can use bot velocity to calculate current position from start
-- select an obstacle/wall or goal reference which can be detected by sensor 
-- we can use calculated position and position from sensor to find the deviation and use it for corretion at regular intervals
+- select an obstacle/wall or any reference which can be detected by sensor 
+- we can use calculated position and position from sensor to find the deviation and use it for correction at regular intervals
 
 ### B.3 2a 
 - use contours to find circles on the grayscale image
